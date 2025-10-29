@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**baek9yun/baek9yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bae9yun/bae9yun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20baek9yun%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue&fontColor=ffffff" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20bae9yun%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue&fontColor=ffffff" width=100%/>
   
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baek9yun" alt="Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=baek9yun&show_icons=true&theme=buefy" height=150/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baek9yun&layout=compact&theme=buefy" height=150/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bae9yun" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bae9yun&show_icons=true&theme=buefy" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bae9yun&layout=compact&theme=buefy" height=150/>
 </p>
   
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=baek9yun&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=bae9yun&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/baek9yun"
+  src="https://render.gitanimals.org/farms/bae9yun"
   width="100%"
   height="300"
 />
